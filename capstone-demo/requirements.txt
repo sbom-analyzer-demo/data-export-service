@@ -1,0 +1,4 @@
+# Customer data export and portability requests
+
+certifi==2022.9.24
+PyYAML==5.3.1
